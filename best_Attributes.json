@@ -1,0 +1,32 @@
+{
+    "essential_attributes": {
+        "customer_concerns": [
+            "Looking to add recessed lighting sooner than later but depends on pricing",
+            "Previous experience with an electrician was unsatisfactory",
+            "Need for better lighting in the room"
+        ],
+        "agent_responses": [
+            "Acknowledged the customer's concerns about pricing and timing",
+            "Provided reassurance about the quality of service and experience",
+            "Explained the company's reputation and customer reviews"
+        ],
+        "objections": [
+            "Customer wants to get 3 bids before making a decision",
+            "Customer is not ready to schedule installation immediately"
+        ],
+        "resolutions": [
+            "Presented multiple options for recessed lighting",
+            "Offered to schedule installation for the preferred option"
+        ]
+    },
+    "strong_points": [
+        "Positive engagement and rapport-building with the customer",
+        "Clear explanations of the company's services and guarantees",
+        "Successful presentation of options that informed the customer"
+    ],
+    "weak_points": [
+        "Missed opportunity to address the customer's need for multiple bids more effectively",
+        "Lack of follow-up questions after presenting options",
+        "Did not confirm next steps or attempt to close the sale effectively"
+    ]
+}
